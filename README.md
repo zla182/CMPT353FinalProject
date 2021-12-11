@@ -44,9 +44,6 @@ For chain_res_distribution.ipynb directly run without command.
 		all_restaurant.html will display the distribution of all restaurants in the form of a heat map.
 		chain_restaurant_plot.html will display the distribution of all chain restaurants in a dot graph.
 		chain_restaurant.html will display the distribution of all chain restaurants in the form of a heat map.
-=======
-# CMPT353FinalProject
-- Reference: https://coursys.sfu.ca/2021fa-cmpt-353-d1/pages/ProjectTour
-- WhereShouldIHaveGone: Vancouver Edition
+		
 - Group Member: ZhuoLiu WangSiWei TeLiangYu
 - Language: Python
