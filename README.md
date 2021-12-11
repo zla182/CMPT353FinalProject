@@ -50,4 +50,3 @@ For chain_res_distribution.ipynb directly run without command.
 - WhereShouldIHaveGone: Vancouver Edition
 - Group Member: ZhuoLiu WangSiWei TeLiangYu
 - Language: Python
->>>>>>> main
